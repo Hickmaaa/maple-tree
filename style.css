@@ -1,0 +1,108 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #2e2921;
+  color: #ffffff;
+}
+img {
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+  width: 96px;
+}
+
+.all-texts {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.Fiverr {
+  padding: 16px 20px;
+  background-color: #19120d;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: white;
+  width: 680px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+}
+
+.Influencer {
+  padding: 16px 20px;
+  background-color: #19120d;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: white;
+  width: 680px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+}
+
+.Management {
+  padding: 16px 20px;
+  background-color: #19120d;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: white;
+  width: 680px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+}
+
+.Twitter {
+  padding: 16px 20px;
+  background-color: #19120d;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: white;
+  width: 680px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+}
+
+.TikTok {
+  padding: 16px 20px;
+  background-color: #19120d;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: white;
+  width: 680px;
+  display: block;
+  text-decoration: none;
+  margin: auto;
+}
+
+.Instagram {
+  padding: 16px 20px;
+  background-color: #19120d;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  color: white;
+  width: 680px;
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: dodgerblue;
+}
